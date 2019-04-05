@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "root",
+        "password": "de5f662g",
+        "database": "sequelize_passport",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": "de5f662g",
+        "database": "testdb",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "",
+        "password": null,
+        "database": "",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}
